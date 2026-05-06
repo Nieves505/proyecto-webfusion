@@ -1,3 +1,5 @@
+Bienvenid@ a WebFusion Digital
 <?php
-echo "Hola";
+echo "<h1>WebFusion Digital</h1>";
+echo "<p>Proyecto </p>";
 ?>
